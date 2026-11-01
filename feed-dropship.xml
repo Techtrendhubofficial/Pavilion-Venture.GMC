@@ -1,1 +1,19 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+<title>Pavilion Venture - Dropship</title>
+<link>https://pavilionventure.com</link>
+<description>Dropship Products</description>
+<item>
+<title>Sample Product 1</title>
+<link>https://pavilionventure.com/products/sample-1</link>
+<image_link>https://pavilionventure.com/images/sample-1.jpg</image_link>
+<g:id>drop_001</g:id>
+<g:price>29.90 MYR</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand>Pavilion Venture</g:brand>
+<g:google_product_category>100</g:google_product_category>
+</item>
+</channel>
+</rss>
