@@ -1,0 +1,43 @@
+const fs = require('fs');
+
+const products = [
+  {
+    id: 'backpack_001',
+    title: 'Techtrend Business Backpack - Black',
+    link: 'https://pavilionventure.com/products/business-backpack',
+    image: 'https://pavilionventure.com/images/backpack-black.jpg',
+    price: '89.00 MYR',
+    brand: 'Pavilion Venture'
+  }
+  // 你可以在这里继续加产品
+];
+
+let xml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+<title>Pavilion Venture</title>
+<link>https://pavilionventure.com</link>
+<description>Product Feed</description>
+`;
+
+products.forEach(p => {
+  xml += `
+<item>
+<title>${p.title}</title>
+<link>${p.link}</link>
+<image_link>${p.image}</image_link>
+<g:id>${p.id}</g:id>
+<g:price>${p.price}</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand>${p.brand}</g:brand>
+</item>`;
+});
+
+xml += `
+</channel>
+</rss>`;
+
+fs.mkdirSync('public', { recursive: true });
+fs.writeFileSync('public/feed-backpack.xml', xml, 'utf-8');
+console.log('Feed generated!');
