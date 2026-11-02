@@ -1,5 +1,48 @@
-<g:image_link>https://raw.githubusercontent.com/Techtrendhubofficial/Pavilion-Venture.GMC/main/herolona-isolating-complexion-cream.jpg</g:image_link>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+<title>Pavilion Venture Skincare</title>
+<link>https://pavilionventure.com/</link>
+<description>Pavilion Venture Skincare Products</description>
 
-<g:image_link>https://raw.githubusercontent.com/Techtrendhubofficial/Pavilion-Venture.GMC/main/kuge-whitening-essence-20240653.jpg</g:image_link>
+<item>
+<g:id>herolona-cream</g:id>
+<g:title>HEROLONA Isolating Complexion Cream</g:title>
+<g:link>https://pavilionventure.com/</g:link>
+<g:image_link>https://raw.githubusercontent.com/Techtrendhubofficial/Pavilion-Venture.GMC/main/herolonacream.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in_stock</g:availability>
+<g:price>40.00 MYR</g:price>
+<g:brand>HEROLONA</g:brand>
+<g:identifier_exists>no</g:identifier_exists>
+<g:google_product_category>Health &amp; Beauty</g:google_product_category>
+</item>
 
-<g:image_link>https://raw.githubusercontent.com/Techtrendhubofficial/Pavilion-Venture.GMC/main/yabi-sea-fennel-eye-serum.jpg</g:image_link>
+<item>
+<g:id>kuge-essence</g:id>
+<g:title>KUGE Whitening Essence</g:title>
+<g:link>https://pavilionventure.com/</g:link>
+<g:image_link>https://raw.githubusercontent.com/Techtrendhubofficial/Pavilion-Venture.GMC/main/kugeessence.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in_stock</g:availability>
+<g:price>50.00 MYR</g:price>
+<g:brand>KUGE</g:brand>
+<g:identifier_exists>no</g:identifier_exists>
+<g:google_product_category>Health &amp; Beauty</g:google_product_category>
+</item>
+
+<item>
+<g:id>yabi-eye-serum</g:id>
+<g:title>YABI Sea Fennel Eye Serum</g:title>
+<g:link>https://pavilionventure.com/</g:link>
+<g:image_link>https://raw.githubusercontent.com/Techtrendhubofficial/Pavilion-Venture.GMC/main/yabieyeserum.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in_stock</g:availability>
+<g:price>59.00 MYR</g:price>
+<g:brand>YABI</g:brand>
+<g:identifier_exists>no</g:identifier_exists>
+<g:google_product_category>Health &amp; Beauty</g:google_product_category>
+</item>
+
+</channel>
+</rss>
