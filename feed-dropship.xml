@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
 <channel>
 <title>Pavilion Venture - Dropship</title>
 <link>https://pavilionventure.com</link>
-<description>Dropship Products</description>
+<description>Products for Google Shopping</description>
+
 <item>
-<title>Sample Product 1</title>
-<link>https://pavilionventure.com/products/sample-1</link>
-<image_link>https://pavilionventure.com/images/sample-1.jpg</image_link>
-<g:id>drop_001</g:id>
-<g:price>29.90 MYR</g:price>
-<g:availability>in_stock</g:availability>
+<g:id>DROP001</g:id>
+<g:title>Mini Backpack Trendy - Black</g:title>
+<g:description>Trendy mini backpack for daily use, high quality material.</g:description>
+<g:link>https://pavilionventure.com/products/mini-backpack-black</g:link>
+<g:image_link>https://pavilionventure.com/images/backpack-black.jpg</g:image_link>
 <g:condition>new</g:condition>
+<g:availability>in_stock</g:availability>
+<g:price>89.90 MYR</g:price>
 <g:brand>Pavilion Venture</g:brand>
-<g:google_product_category>100</g:google_product_category>
+<g:google_product_category>166</g:google_product_category>
+<g:shipping>
+<g:country>MY</g:country>
+<g:service>Standard</g:service>
+<g:price>0 MYR</g:price>
+</g:shipping>
 </item>
+
 </channel>
 </rss>
