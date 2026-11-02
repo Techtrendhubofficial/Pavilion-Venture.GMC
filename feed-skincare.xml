@@ -1,55 +1,70 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
 <channel>
-<title>Pavilion Venture - Skincare Buy 1 Free 1</title>
+<title>Pavilion Venture Skincare</title>
 <link>https://pavilionventure.com</link>
-<description>Skincare Bundle</description>
+<description>Pavilion Venture Skincare Products</description>
 
 <item>
-<g:id>kuge-whitening-2pcs</g:id>
-<g:title>KUGE Whitening Essence - Buy 1 Free 1 (2 Bottles)</g:title>
-<g:description>KUGE Whitening Essence, moisturizing and brightening eye essence, 2 bottles bundle pack.</g:description>
-<g:link>https://pavilionventure.com/products/kuge-whitening-essence</g:link>
-<g:image_link>https://pavilionventure.com/cdn/kuge-2pcs.jpg</g:image_link>
+<g:id>puqianna-white-truffle-mask</g:id>
+<g:title>PUQIANNA White Truffle Gold Luxurious Anti-Wrinkle Mask 5pcs</g:title>
+<g:description>PUQIANNA White Truffle Gold Luxurious Anti-Wrinkle Facial Mask, 5 pieces per box.</g:description>
+<g:link>https://pavilionventure.com/products/puqianna-mask</g:link>
+<g:image_link>https://raw.githubusercontent.com/pavilionventure/feed/main/puqianna.jpg</g:image_link>
 <g:condition>new</g:condition>
 <g:availability>in_stock</g:availability>
-<g:price>59.90 MYR</g:price>
-<g:brand>KUGE</g:brand>
-<g:mpn>KUGE-WE-2PCS</g:mpn>
+<g:price>49.90 MYR</g:price>
+<g:brand>PUQIANNA</g:brand>
+<g:mpn>PQ-TRUFFLE-5</g:mpn>
 <g:identifier_exists>no</g:identifier_exists>
 <g:google_product_category>1223</g:google_product_category>
-<g:product_type>Beauty > Skincare</g:product_type>
+<g:product_type>Health and Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care &gt; Face Masks</g:product_type>
 <g:shipping><g:country>MY</g:country><g:service>Standard</g:service><g:price>0 MYR</g:price></g:shipping>
 </item>
 
 <item>
-<g:id>yabi-eye-serum-2pcs</g:id>
-<g:title>YABI Sea Fennel Polypeptide Anti-wrinkle Eye Serum - Buy 1 Free 1</g:title>
-<g:description>YABI Sea Fennel Polypeptide Anti-wrinkle Eye Serum, eye area serum, bundle of 2.</g:description>
-<g:link>https://pavilionventure.com/products/yabi-eye-serum</g:link>
-<g:image_link>https://pavilionventure.com/cdn/yabi-2pcs.jpg</g:image_link>
+<g:id>ouzicui-essence-mask</g:id>
+<g:title>OUZICUI Essence Mask Firming and Soothing 5pcs</g:title>
+<g:description>OUZICUI Essence Mask Helps Soothe and Moisturize Skin, 30ml x 5 pieces.</g:description>
+<g:link>https://pavilionventure.com/products/ouzicui-essence-mask</g:link>
+<g:image_link>https://raw.githubusercontent.com/pavilionventure/feed/main/ouzicui-essence.jpg</g:image_link>
 <g:condition>new</g:condition>
 <g:availability>in_stock</g:availability>
-<g:price>69.90 MYR</g:price>
-<g:brand>YABI</g:brand>
-<g:mpn>YABI-EYE-2PCS</g:mpn>
+<g:price>39.90 MYR</g:price>
+<g:brand>OUZICUI</g:brand>
+<g:mpn>OUZ-ESS-5</g:mpn>
 <g:identifier_exists>no</g:identifier_exists>
 <g:google_product_category>1223</g:google_product_category>
 <g:shipping><g:country>MY</g:country><g:service>Standard</g:service><g:price>0 MYR</g:price></g:shipping>
 </item>
 
 <item>
-<g:id>herolona-cc-cream-2pcs</g:id>
-<g:title>HEROLONA Isolating Complexion Cream - Buy 1 Free 1 (2 Pcs)</g:title>
-<g:description>HEROLONA Isolating Complexion Cream, light and breathable concealer isolating cream, bundle of 2.</g:description>
-<g:link>https://pavilionventure.com/products/herolona-cc-cream</g:link>
-<g:image_link>https://pavilionventure.com/cdn/herolona-2pcs.jpg</g:image_link>
+<g:id>ouzicui-begonia-mask</g:id>
+<g:title>OUZICUI Begonia Essential Oil Flash Filling Facial Mask 5pcs</g:title>
+<g:description>OUZICUI Begonia Essential Oil Flash Filling Facial Mask, 30ml x 5 pieces.</g:description>
+<g:link>https://pavilionventure.com/products/ouzicui-begonia-mask</g:link>
+<g:image_link>https://raw.githubusercontent.com/pavilionventure/feed/main/ouzicui-begonia.jpg</g:image_link>
 <g:condition>new</g:condition>
 <g:availability>in_stock</g:availability>
-<g:price>59.90 MYR</g:price>
-<g:brand>HEROLONA</g:brand>
-<g:mpn>HERO-CC-2PCS</g:mpn>
+<g:price>39.90 MYR</g:price>
+<g:brand>OUZICUI</g:brand>
+<g:mpn>OUZ-BEG-5</g:mpn>
+<g:identifier_exists>no</g:identifier_exists>
+<g:google_product_category>1223</g:google_product_category>
+<g:shipping><g:country>MY</g:country><g:service>Standard</g:service><g:price>0 MYR</g:price></g:shipping>
+</item>
+
+<item>
+<g:id>meibai-danban-mask</g:id>
+<g:title>Whitening and Spot Lightening Facial Mask 5pcs</g:title>
+<g:description>Whitening and Spot Lightening Facial Mask, 25ml x 5 pieces.</g:description>
+<g:link>https://pavilionventure.com/products/meibai-mask</g:link>
+<g:image_link>https://raw.githubusercontent.com/pavilionventure/feed/main/meibai.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in_stock</g:availability>
+<g:price>39.90 MYR</g:price>
+<g:brand>Generic</g:brand>
+<g:mpn>MB-SPOT-5</g:mpn>
 <g:identifier_exists>no</g:identifier_exists>
 <g:google_product_category>1223</g:google_product_category>
 <g:shipping><g:country>MY</g:country><g:service>Standard</g:service><g:price>0 MYR</g:price></g:shipping>
