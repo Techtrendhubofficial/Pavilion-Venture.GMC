@@ -4,7 +4,6 @@
 <title>Pavilion Venture - Dropship</title>
 <link>https://pavilionventure.com</link>
 <description>Products for Google Shopping</description>
-
 <item>
 <g:id>DROP001</g:id>
 <g:title>Mini Backpack Trendy - Black</g:title>
@@ -16,12 +15,8 @@
 <g:price>89.90 MYR</g:price>
 <g:brand>Pavilion Venture</g:brand>
 <g:google_product_category>166</g:google_product_category>
-<g:shipping>
-<g:country>MY</g:country>
-<g:service>Standard</g:service>
-<g:price>0 MYR</g:price>
-</g:shipping>
+<g:shipping_weight>0.5 kg</g:shipping_weight>
+<g:shipping><g:country>MY</g:country><g:service>Standard</g:service><g:price>0 MYR</g:price></g:shipping>
 </item>
-
 </channel>
 </rss>
