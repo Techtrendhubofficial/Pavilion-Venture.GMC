@@ -3,11 +3,10 @@
 <channel>
 <title>Pavilion Venture Phone Gadget</title>
 <link>https://pavilionventure.com/</link>
-<description>Pavilion Venture Phone Gadget Products</description>
-
+<description>Pavilion Venture Phone Gadget</description>
 <item>
-<g:id>power-bank-20000mah-fast-charge</g:id>
-<g:title><![CDATA[ 20000mAh Fast Charging Power Bank PD 22.5W ]]></g:title>
+<g:id>power-bank-10000mah</g:id>
+<g:title>10000mAh Fast Charging Power Bank PD 22.5W</g:title>
 <g:link>https://pavilionventure.com/</g:link>
 <g:image_link>https://raw.githubusercontent.com/Techtrendhubofficial/Pavilion-Venture.GMC/main/powerbank01.jpg</g:image_link>
 <g:condition>new</g:condition>
@@ -15,10 +14,7 @@
 <g:price>89.00 MYR</g:price>
 <g:brand>Pavilion Venture</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
-<g:google_product_category>Electronics > Electronics Accessories > Power > Power Banks</g:google_product_category>
-<g:shipping_weight>0.35 kg</g:shipping_weight>
-<g:shipping><g:country>MY</g:country><g:service>Standard</g:service><g:price>8.00 MYR</g:price></g:shipping>
+<g:google_product_category>Electronics</g:google_product_category>
 </item>
-
 </channel>
 </rss>
