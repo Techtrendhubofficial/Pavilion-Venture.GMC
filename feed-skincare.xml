@@ -16,6 +16,12 @@
 <g:brand>HEROLONA</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
 <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+<g:shipping_weight>0.3 kg</g:shipping_weight>
+<g:shipping>
+  <g:country>MY</g:country>
+  <g:service>Standard</g:service>
+  <g:price>8.00 MYR</g:price>
+</g:shipping>
 </item>
 
 <item>
@@ -29,6 +35,12 @@
 <g:brand>KUGE</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
 <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+<g:shipping_weight>0.3 kg</g:shipping_weight>
+<g:shipping>
+  <g:country>MY</g:country>
+  <g:service>Standard</g:service>
+  <g:price>8.00 MYR</g:price>
+</g:shipping>
 </item>
 
 <item>
@@ -42,6 +54,12 @@
 <g:brand>YABI</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
 <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+<g:shipping_weight>0.2 kg</g:shipping_weight>
+<g:shipping>
+  <g:country>MY</g:country>
+  <g:service>Standard</g:service>
+  <g:price>8.00 MYR</g:price>
+</g:shipping>
 </item>
 
 </channel>
