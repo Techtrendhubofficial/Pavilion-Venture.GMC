@@ -8,7 +8,7 @@
 <item>
 <g:id>herolona-cream</g:id>
 <g:title><![CDATA[ HEROLONA Isolating Complexion Cream ]]></g:title>
-<g:link>https://pavilionventure.com/</g:link>
+<g:link>https://pavilionventure.com/products/herolona-cream</g:link>
 <g:image_link>https://raw.githubusercontent.com/Techtrendhubofficial/Pavilion-Venture.GMC/main/herolonacream.jpg</g:image_link>
 <g:condition>new</g:condition>
 <g:availability>in_stock</g:availability>
@@ -23,7 +23,7 @@
 <item>
 <g:id>kuge-essence</g:id>
 <g:title><![CDATA[ KUGE Whitening Essence ]]></g:title>
-<g:link>https://pavilionventure.com/</g:link>
+<g:link>https://pavilionventure.com/products/kuge-essence</g:link>
 <g:image_link>https://raw.githubusercontent.com/Techtrendhubofficial/Pavilion-Venture.GMC/main/kugeessence.jpg</g:image_link>
 <g:condition>new</g:condition>
 <g:availability>in_stock</g:availability>
@@ -38,7 +38,7 @@
 <item>
 <g:id>yabi-eye-serum</g:id>
 <g:title><![CDATA[ YABI Sea Fennel Eye Serum ]]></g:title>
-<g:link>https://pavilionventure.com/</g:link>
+<g:link>https://pavilionventure.com/products/yabi-eye-serum</g:link>
 <g:image_link>https://raw.githubusercontent.com/Techtrendhubofficial/Pavilion-Venture.GMC/main/yabieyeserum.jpg</g:image_link>
 <g:condition>new</g:condition>
 <g:availability>in_stock</g:availability>
@@ -53,7 +53,7 @@
 <item>
 <g:id>dr-exlee-whitening-sunscreen-spf50</g:id>
 <g:title><![CDATA[ Dr.exlee Outdoor Whitening Sunscreen SPF50 PA+++ ]]></g:title>
-<g:link>https://pavilionventure.com/</g:link>
+<g:link>https://pavilionventure.com/products/dr-exlee-whitening-sunscreen-spf50</g:link>
 <g:image_link>https://raw.githubusercontent.com/Techtrendhubofficial/Pavilion-Venture.GMC/main/drexleesunscreen01.jpg</g:image_link>
 <g:condition>new</g:condition>
 <g:availability>in_stock</g:availability>
@@ -68,7 +68,7 @@
 <item>
 <g:id>ouhr-99-proxylane-eye-cream-b810</g:id>
 <g:title><![CDATA[ OUHR 99%玻色因抗皱紧致眼霜 B810 ]]></g:title>
-<g:link>https://pavilionventure.com/</g:link>
+<g:link>https://pavilionventure.com/products/ouhr-99-proxylane-eye-cream-b810</g:link>
 <g:image_link>https://raw.githubusercontent.com/Techtrendhubofficial/Pavilion-Venture.GMC/main/ouhr99proxylaneeyecream.jpg</g:image_link>
 <g:condition>new</g:condition>
 <g:availability>in_stock</g:availability>
@@ -78,6 +78,55 @@
 <g:google_product_category>Health &amp; Beauty</g:google_product_category>
 <g:shipping_weight>0.12 kg</g:shipping_weight>
 <g:shipping><g:country>MY</g:country><g:service>Standard</g:service><g:price>8.00 MYR</g:price></g:shipping>
+</item>
+
+<item>
+<g:id>puqianna-white-truffle-mask</g:id>
+<g:title>PUQIANNA White Truffle Gold Luxurious Anti-Wrinkle Mask 5pcs</g:title>
+<g:description>PUQIANNA White Truffle Gold Luxurious Anti-Wrinkle Facial Mask, 5 pieces per box.</g:description>
+<g:link>https://pavilionventure.com/products/puqianna-mask</g:link>
+<g:image_link>https://raw.githubusercontent.com/pavilionventure/feed/main/puqiannamask.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in_stock</g:availability>
+<g:price>49.90 MYR</g:price>
+<g:brand>PUQIANNA</g:brand>
+<g:mpn>PQ-TRUFFLE-5</g:mpn>
+<g:identifier_exists>no</g:identifier_exists>
+<g:google_product_category>1223</g:google_product_category>
+<g:product_type>Health and Beauty &gt; Personal Care &gt; Cosmetics &gt; Skin Care &gt; Face Masks</g:product_type>
+<g:shipping><g:country>MY</g:country><g:service>Standard</g:service><g:price>0 MYR</g:price></g:shipping>
+</item>
+
+<item>
+<g:id>ouzicui-essence-mask</g:id>
+<g:title>OUZICUI Essence Mask Firming and Soothing 5pcs</g:title>
+<g:description>OUZICUI Essence Mask Helps Soothe and Moisturize Skin, 30ml x 5 pieces.</g:description>
+<g:link>https://pavilionventure.com/products/ouzicui-essence-mask</g:link>
+<g:image_link>https://raw.githubusercontent.com/pavilionventure/feed/main/ouzicuiessencemask.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in_stock</g:availability>
+<g:price>39.90 MYR</g:price>
+<g:brand>OUZICUI</g:brand>
+<g:mpn>OUZ-ESS-5</g:mpn>
+<g:identifier_exists>no</g:identifier_exists>
+<g:google_product_category>1223</g:google_product_category>
+<g:shipping><g:country>MY</g:country><g:service>Standard</g:service><g:price>0 MYR</g:price></g:shipping>
+</item>
+
+<item>
+<g:id>meibai-danban-mask</g:id>
+<g:title>Whitening and Spot Lightening Facial Mask 5pcs</g:title>
+<g:description>Whitening and Spot Lightening Facial Mask, 25ml x 5 pieces.</g:description>
+<g:link>https://pavilionventure.com/products/meibai-mask</g:link>
+<g:image_link>https://raw.githubusercontent.com/pavilionventure/feed/main/meibaimask.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:availability>in_stock</g:availability>
+<g:price>39.90 MYR</g:price>
+<g:brand>Generic</g:brand>
+<g:mpn>MB-SPOT-5</g:mpn>
+<g:identifier_exists>no</g:identifier_exists>
+<g:google_product_category>1223</g:google_product_category>
+<g:shipping><g:country>MY</g:country><g:service>Standard</g:service><g:price>0 MYR</g:price></g:shipping>
 </item>
 
 </channel>
